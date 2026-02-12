@@ -2,7 +2,7 @@
 
 I’m a Computer Science graduate from BRAC University with a strong focus on Machine Learning, Deep Learning, and data‑driven AI systems. 
 
-## Tools I use:
+**Tools I use:**
 
 - **Programming & AI**  
   Python, C, NumPy, Pandas, Scikit-learn, TensorFlow / Keras
@@ -13,7 +13,7 @@ I’m a Computer Science graduate from BRAC University with a strong focus on Ma
 - **Web & Deployment (for demos)**  
   Flask, FastAPI, HTML, CSS, Jinja2
 
-## To Reach Me:
+**To Reach Me:**
 
 - 📧 Email: nazihahislam3@gmail.com
 
@@ -21,7 +21,7 @@ I’m a Computer Science graduate from BRAC University with a strong focus on Ma
 
 - 💻 GitHub: You’re already here 🙂
 
-## Fun Facts:
+**Fun Facts:**
 
 - Photography enthusiast
 - Love making journals
