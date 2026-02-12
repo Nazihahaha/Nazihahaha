@@ -20,3 +20,10 @@ Flask, FastAPI, HTML, CSS, Jinja2
 - 🌐 Website: http://nazihahislam.online
 
 - 💻 GitHub: You’re already here 🙂
+
+## Fun Facts:
+
+- Photography enthusiast
+- Enjoy Teaching
+- Bookworm
+- Journaling
