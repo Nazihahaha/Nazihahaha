@@ -15,8 +15,8 @@ Flask, HTML, CSS, Jinja2
 
 ## To Reach Me:
 
-📧 Email: nazihahislam3@gmail.com
+- 📧 Email: nazihahislam3@gmail.com
 
-🌐 Website: http://nazihahislam.online
+- 🌐 Website: http://nazihahislam.online
 
-💻 GitHub: You’re already here 🙂
+- 💻 GitHub: You’re already here 🙂
