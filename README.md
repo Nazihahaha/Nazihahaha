@@ -24,6 +24,7 @@ Flask, FastAPI, HTML, CSS, Jinja2
 ## Fun Facts:
 
 - Photography enthusiast
+- Love making journals
 - Enjoy Teaching
 - Bookworm
-- Journaling
+
