@@ -4,13 +4,13 @@ I’m a Computer Science graduate from BRAC University with a strong focus on Ma
 
 ## Tools I use:
 
-- # Programming & AI
+- ### Programming & AI
 Python, C, NumPy, Pandas, Scikit‑learn, TensorFlow / Keras
 
-- # Data & Databases
+- ### Data & Databases
 MySQL, MongoDB, SQL
 
-- # Web & Deployment (for demos)
+- ### Web & Deployment (for demos)
 Flask, HTML, CSS, Jinja2
 
 ## To Reach Me:
