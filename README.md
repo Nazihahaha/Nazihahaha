@@ -25,6 +25,6 @@ I’m a Computer Science graduate from BRAC University with a strong focus on Ma
 
 - Photography enthusiast
 - Love making journals
-- Enjoy Teaching
+- Enjoy teaching
 - Bookworm
 
