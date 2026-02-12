@@ -11,7 +11,7 @@ Python, C, NumPy, Pandas, Scikit‑learn, TensorFlow / Keras
 MySQL, MongoDB, SQL
 
 - ### Web & Deployment (for demos)
-Flask, HTML, CSS, Jinja2
+Flask, FastAPI, HTML, CSS, Jinja2
 
 ## To Reach Me:
 
