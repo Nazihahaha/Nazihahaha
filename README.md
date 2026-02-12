@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Nazihahaha/Nazihahaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science graduate from BRAC University with a strong focus on Machine Learning, Deep Learning, and data‑driven AI systems. My academic and research work centers on building accurate, explainable, and impactful AI, particularly in healthcare and real‑world decision‑making systems. I enjoy working at the intersection of theory, data, and application—turning complex problems into deployable solutions.
 
-Here are some ideas to get you started:
+Tools I use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming & AI
+Python, C, NumPy, Pandas, Scikit‑learn, TensorFlow / Keras
+
+Data & Databases
+MySQL, MongoDB, SQL
+
+Web & Deployment (for demos)
+Flask, HTML, CSS, Jinja2
+
+To reach me:
+
+📧 Email: nazihahislam3@gmail.com
+
+🌐 Website: http://nazihahislam.online
+
+💻 GitHub: You’re already here 🙂
